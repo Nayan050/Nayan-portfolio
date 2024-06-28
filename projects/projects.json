@@ -6,7 +6,7 @@
     "category": "webdev",
     "links": {
       "view": "#",
-      "code": "https://github.com/jigar-sable/Portfolio-Website"
+      "code": ""
     }
   },
   {
@@ -15,8 +15,8 @@
     "image": "portfolio2",
     "category": "webdev",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/notystack-android"
+      "view": "",
+      "code": ""
     }
   },
   {
@@ -26,7 +26,7 @@
     "category": "webdev",
     "links": {
       "view": "https://nayan050.github.io/Tindog/",
-      "code": "https://github.com/jigar-sable/notystack-android"
+      "code": ""
     }
   },
       {
@@ -36,7 +36,7 @@
     "category": "webdes",
     "links": {
       "view": "https://bit.ly/3RaULyC",
-      "code": "https://github.com/jigar-sable/notystack-android"
+      "code": ""
     }
   },
   {
@@ -45,8 +45,8 @@
     "image": "aas",
     "category": "py",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/notystack-android"
+      "view": "",
+      "code": ""
     }
   },
    {
@@ -55,8 +55,8 @@
     "image": "hfr",
     "category": "iot",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/notystack-android"
+      "view": "",
+      "code": ""
     }
   },
   {
@@ -65,8 +65,8 @@
     "image": "stg",
     "category": "iot",
     "links": {
-      "view": "https://nayan050.github.io/Tindog/",
-      "code": "https://github.com/jigar-sable/notystack-android"
+      "view": "",
+      "code": ""
     }
   }
 ]
