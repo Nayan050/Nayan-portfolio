@@ -1,0 +1,98 @@
+[
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/?id=20909&format=png&color=000000"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/?id=21278&format=png&color=000000"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/?id=108784&format=png&color=000000"
+    },
+    {
+        "name": "React",
+        "icon": "https://img.icons8.com/?id=Nlsua06Gvxel&format=png&color=000000"
+    },
+    {
+        "name": "Express JS",
+        "icon": "https://img.icons8.com/?id=WNoJgbzDr3i2&format=png&color=000000"
+    },
+        {
+        "name": "JQuery",
+        "icon": "https://img.icons8.com/?id=HKNzD81eiiSc&format=png&color=000000"
+    },
+    {
+        "name": "Bootstrap5",
+        "icon": "https://img.icons8.com/?id=g9mmSxx3SwAI&format=png&color=000000"
+    },
+     {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/?id=UFXRpPFebwa2&format=png&color=000000"
+    },
+    {
+        "name": "C",
+        "icon": "https://img.icons8.com/?id=40670&format=png&color=000000"
+    },
+    {
+        "name": "JAVA",
+        "icon": "https://img.icons8.com/?id=13679&format=png&color=000000"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/?id=13441&format=png&color=000000"
+    },
+    {
+        "name": "Windows",
+        "icon": "https://img.icons8.com/?id=cTTwZIlPM6R6&format=png&color=000000"
+    },
+    {
+        "name": "Android",
+        "icon": "https://img.icons8.com/?id=17836&format=png&color=000000"
+    },
+    {
+        "name": "Ubuntu",
+        "icon": "https://img.icons8.com/?id=63208&format=png&color=000000"
+    },
+    {
+        "name": "Net Hunter",
+        "icon": "https://img.icons8.com/?id=101665&format=png&color=000000"
+    },
+    {
+        "name": "Kali Linux",
+        "icon": "https://img.icons8.com/?id=101665&format=png&color=000000"
+    },
+    {
+        "name": "SQL Injection",
+        "icon": "https://img.icons8.com/?id=tR8ereAVKwsT&format=png&color=000000"
+    },
+    {
+        "name": "Metasploit",
+        "icon": "https://img.icons8.com/?id=PW0ChfedZvTh&format=png&color=000000"
+    },
+    {
+        "name": "Nmap",
+        "icon": "https://img.icons8.com/?id=9b5wowKIlo9d&format=png&color=000000"
+    },
+    {
+        "name": "Wireshark",
+        "icon": "https://img.icons8.com/?id=16105&format=png&color=000000"
+    },
+    {
+        "name": "Splunk",
+        "icon": "https://img.icons8.com/?id=49188&format=png&color=000000"
+    },
+        {
+        "name": "VS Code",
+        "icon": "https://img.icons8.com/?id=9OGIyU8hrxW5&format=png&color=000000"
+    },
+    {
+        "name": "CLI",
+        "icon": "https://img.icons8.com/?id=s0oMA2u8paUt&format=png&color=000000"
+    },
+    {
+        "name": "Github",
+        "icon": "https://img.icons8.com/?id=AZOZNnY73haj&format=png&color=000000"
+    }  
+]

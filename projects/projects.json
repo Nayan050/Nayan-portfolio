@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "webdev",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/jigar-sable/Portfolio-Website"
+    }
+  },
+  {
+    "name": "Personal website",
+    "desc": "Personal portfolio website built using HTML5, CSS, JS, Bootstrap4, JQuery.",
+    "image": "portfolio2",
+    "category": "webdev",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/notystack-android"
+    }
+  },
+  {
+    "name": "TinDog",
+    "desc": "TinDog a website where you can buy your favroite dog online, made using HTML, CSS and JS.",
+    "image": "td",
+    "category": "webdev",
+    "links": {
+      "view": "https://nayan050.github.io/Tindog/",
+      "code": "https://github.com/jigar-sable/notystack-android"
+    }
+  },
+      {
+    "name": "Website Design of a Hotel",
+    "desc": "Website designing of a Hotel using Canva.",
+    "image": "hwd",
+    "category": "webdes",
+    "links": {
+      "view": "https://bit.ly/3RaULyC",
+      "code": "https://github.com/jigar-sable/notystack-android"
+    }
+  },
+  {
+    "name": "Advanced Attendance System",
+    "desc": "ADVANCE ATTENDANCE SYSTEM USING OpenCV [Face Recognition].",
+    "image": "aas",
+    "category": "py",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/notystack-android"
+    }
+  },
+   {
+    "name": "Human Following Robocar",
+    "desc": "Human Following Robocar which follows human made using arduino, ultrasonic, IR sensor, motor driver and DC motors.",
+    "image": "hfr",
+    "category": "iot",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/notystack-android"
+    }
+  },
+  {
+    "name": "Smart Toll Gate",
+    "desc": "Smart toll gate using arduino , ultra sonic sensor and servo motor.",
+    "image": "stg",
+    "category": "iot",
+    "links": {
+      "view": "https://nayan050.github.io/Tindog/",
+      "code": "https://github.com/jigar-sable/notystack-android"
+    }
+  }
+]
